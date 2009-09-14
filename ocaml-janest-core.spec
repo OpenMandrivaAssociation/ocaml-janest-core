@@ -8,6 +8,7 @@ URL:            http://www.janestcapital.com/ocaml/
 Source0:        http://www.janestreet.com/ocaml/core-%{version}.tgz
 Patch0:         0003-add-missing-META-dep-on-unix.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
+BuildRequires:  ncurses-devel
 BuildRequires:  ocaml-findlib
 BuildRequires:  camlp4
 BuildRequires:  ocaml-res-devel
