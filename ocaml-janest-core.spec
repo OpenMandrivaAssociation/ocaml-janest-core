@@ -16,6 +16,7 @@ BuildRequires:  ocaml-sexplib-devel
 BuildRequires:  ocaml-type-conv
 BuildRequires:  ocaml-bin-prot-devel
 BuildRequires:  ocaml-ounit-devel
+BuildRequires:  chrpath
 
 %description
 Core is Jane Street Capital's alternative standard library for OCaml.
