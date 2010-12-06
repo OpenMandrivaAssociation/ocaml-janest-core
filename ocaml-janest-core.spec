@@ -1,6 +1,6 @@
 Name:           ocaml-janest-core
 Version:        0.5.3
-Release:        %mkrel 3
+Release:        %mkrel 4
 Summary:        Jane Street Capital's alternative standard library for OCaml
 License:        LGPL + linking exception
 Group:          Development/Other
