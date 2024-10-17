@@ -4,7 +4,7 @@ Release:        %mkrel 4
 Summary:        Jane Street Capital's alternative standard library for OCaml
 License:        LGPL + linking exception
 Group:          Development/Other
-URL:            http://www.janestcapital.com/ocaml/
+URL:            https://www.janestcapital.com/ocaml/
 Source0:        http://www.janestreet.com/ocaml/core-%{version}.tgz
 Patch0:         0003-add-missing-META-dep-on-unix.patch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
